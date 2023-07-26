@@ -15,7 +15,7 @@ a{
   color: #A76F6F;
 }
 .black{
-  color: #606C5D;
+  color: #7D7463;
 }
 .correct{
   color: #29bb89;
@@ -47,6 +47,7 @@ a{
 
 
 #heading{
+  color: #191825;
   align-self: left;
   margin-top: 50px;
   font-size: 1.75rem;
